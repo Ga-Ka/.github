@@ -4,7 +4,7 @@ Bem-vindos à organização **GAKA**!
 
 ## Sobre Nós
 
-A GAKA é uma parceria formada entre **Gabriel Oliveira** e **Kaylanne Santos**. Nossa colaboração teve início em dezembro de 2022, enquanto trabalhávamos juntos na **SEMEC - Prefeitura de Teresina**. Desde então, temos nos dedicado a criar soluções inovadoras para melhorar o gerenciamento de recursos e a eficiência no setor de TI.
+A GAKA é uma parceria formada entre **(Gabriel Oliveira)[https://github.com/gabriel-codart]** e **(Kaylanne Santos)[https://github.com/kaylannesantos]**. Nossa colaboração teve início em dezembro de 2022, enquanto trabalhávamos juntos na **SEMEC - Prefeitura de Teresina**. Desde então, temos nos dedicado a criar soluções inovadoras para melhorar o gerenciamento de recursos e a eficiência no setor de TI.
 
 ## Projeto Atual
 
